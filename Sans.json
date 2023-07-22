@@ -1,7 +1,7 @@
   {
-  "name": "Anime",
-  "description": "Some stars in the dark, reminds me of Chuck E Cheese, but in the dark.",
-  "version": "1.5",
+  "name": "undersans",
+  "description": "it was truely sad watching people kill papyrus and sans trying to avenge his brother. ",
+  "version": "1.0",
   "authors": [
     {
       "name": "mr.whitevr",
@@ -19,7 +19,7 @@
     ],
     "TEXT_NORMAL": [
       "#FBFBFB",
-      "#2e3338"
+      "#15518c"
     ],
     "TEXT_MUTED": [
       "#ffffff",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.3,
-    "url": "https://media.discordapp.net/attachments/1106722556448346143/1132289407500681286/IMG_3406.jpg",
+    "url": "https://media.discordapp.net/attachments/1106722556448346143/1132447965122940928/IMG_3408.jpg",
     "alpha": 1.0
   }
 }
