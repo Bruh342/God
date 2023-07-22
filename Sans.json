@@ -11,7 +11,7 @@
   "theme_color_map": {
     "HEADER_PRIMARY": [
       "#ffffff",
-      "#2c2c33"
+      "#15518c"
     ],
     "HEADER_SECONDARY": [
       "#ffffff",
@@ -43,11 +43,11 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#1b1b1b",
-      "#ffffff"
+      "#15518c"
     ],
     "BACKGROUND_SECONDARY": [
       "#1b1b1b",
-      "#f2f3f5"
+      "#6baced"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#1b1b1b",
